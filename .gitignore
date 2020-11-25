@@ -1,0 +1,7 @@
+lib 
+include 
+lib64 
+bin 
+Pipfile 
+pyenv.cfg
+.vscode
